@@ -2,8 +2,8 @@
 <!--
 **kyzyto/kyzyto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=kyzyto&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/kyzyto?color=971901&logo=githubb&label=FOLLOWERS"/>
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=kyzyto&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/> <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/kyzyto?color=971901&logo=githubb&label=FOLLOWERS"/>
+
 
  <img src="https://img.shields.io/badge/Java-%23CCCCCC.svg?&style=flat-square&logo=java&logoColor=orange"> 
  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white">
