@@ -9,15 +9,13 @@
 - 🔭 I’m currently working on my IBM Data Engineering Professional Capstone and other personal projects.
 - 🌱 I’m currently learning ```DevOps```, ```Logistics & Supply Chain Management```, and advanced ```DataOps/MLOps```
 - 🤔 I’m looking for help with DevOps and proper coding practices
-- 📈 I'm particularly interested in **`Solutions Architecture`**, **`Development & Delivery`**, **`Analytics`**, **`Machine Learning`** and applying **`Models`** to solve interesting novel industrial and business problems.
+- 📈 I'm particularly interested in **`Client or Customer Relations`**, **`Solutions Architecture`**, **`Development & Delivery`**, **`Analytics`**, **`Machine      Learning`** and applying **`Models`** to solve interesting novel industrial and business problems.
 - 💬 Ask me about solutions, project ideas, cooking, anime, and basketball
-- 📫 How to reach me: My LinkedIn and Email placed below
+- 📫 How to reach me: My LinkedIn placed below
 - 😄 Pronouns: He/Him/His
 
 ## Contacts
 <a href="https://www.linkedin.com/in/adunife-kizito-okoye-4b8618178/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="kizito.okoye@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 ## Technical Skills
 ### Languages
