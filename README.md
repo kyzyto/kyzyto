@@ -34,8 +34,7 @@
 
 
 ### Frameworks and Librarys
-<p>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<p><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
@@ -50,7 +49,7 @@
 ### Softwares:
 **Still compiling**
 
-### Used Operating Systems
+### Operating Systems
 <p> <img src="https://img.shields.io/badge/MacOS-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"> 
