@@ -29,4 +29,4 @@
 <img src="https://img.shields.io/badge/Android Studio-%233DDC84.svg?&style=flat-square&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-%235C2D91.svg?&style=flat-square&logo=visual-studio&logoColor=white"> 
 
 ### Used Operating Systems
-<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Arch Linux-%231793D1.svg?&style=flat-square&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/MacOS-%23999999.svg?&style=flat-square&logo=apple&logoColor=white"> 
+<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/MacOS-%23999999.svg?&style=flat-square&logo=apple&logoColor=white"> 
