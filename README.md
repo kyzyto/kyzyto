@@ -1,4 +1,4 @@
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=kyzyto&style=flat&labelColor=red&logo=github&label=Profile+Views&color=971901"/> <img alt="Followers" src="https://img.shields.io/github/followers/kyzyto?color=971901&logo=githubb&label=Followers"/>
+
 
 ### Hi there 👋, my name is Kizito
 <!--
