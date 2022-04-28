@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ```DevOps```, ```Logistics & Supply Chain Management```, and advanced ```DataOps/MLOps```
 - 🤔 I’m looking for help with DevOps and proper coding practices
 - 📈 I'm particularly interested in **`Client or Customer Relations`**, **`Solutions Architecture`**, **`Development & Delivery`**, **`Analytics`**, **`Machine      Learning`** and applying **`Models`** to solve interesting novel industrial and business problems.
-- 💬 Ask me about solutions, project ideas, cooking, anime, and basketball
+- 💬 Ask me about technologies, statistics, cooking, anime, and basketball
 - 📫 How to reach me: My LinkedIn placed below
 - 😄 Pronouns: He/Him/His
 
