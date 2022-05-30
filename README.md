@@ -6,10 +6,10 @@
 -->
 
 - 👩‍🎓 Before pursuing a Data centric Profession, I'm a STEM enthusiast who got a Bachelor's Degree in Computer Science.
-- 🔭 I’m currently working on my IBM Data Engineering Professional Capstone and other personal projects.
+- 🔭 I’m currently working on Spark and Databricks personal projects.
 - 🌱 I’m currently learning ```DevOps```, ```Logistics & Supply Chain Management```, and advanced ```DataOps/MLOps```
 - 🤔 I’m looking for help with DevOps and proper coding practices
-- 📈 I'm particularly interested in **`Client or Customer Relations`**, **`Solutions Architecture`**, **`Development & Delivery`**, **`Analytics`**, **`Machine      Learning`** and applying **`Models`** to solve interesting novel industrial and business problems.
+- 📈 I'm particularly interested in **`Client or Customer Relations`**, **`Solutions Architecture`**, **`Research, Development & Delivery`**, **`Analytics`**, **`Machine Learning`** and applying **`Statistical Models`** to solve interesting novel industrial and business problems.
 - 💬 Ask me about technologies, statistics, cooking, anime, and basketball
 - 📫 How to reach me: My LinkedIn placed below
 - 😄 Pronouns: He/Him/His
